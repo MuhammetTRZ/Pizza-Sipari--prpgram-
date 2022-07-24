@@ -1,0 +1,11 @@
+C:\Users\Nebi Terzi\Desktop\Kütüphane Projesi\Pizza Sipariş Programı\Pizza Sipariş Programı\bin\Debug\Pizza Sipariş Programı.exe.config
+C:\Users\Nebi Terzi\Desktop\Kütüphane Projesi\Pizza Sipariş Programı\Pizza Sipariş Programı\bin\Debug\Pizza Sipariş Programı.exe
+C:\Users\Nebi Terzi\Desktop\Kütüphane Projesi\Pizza Sipariş Programı\Pizza Sipariş Programı\bin\Debug\Pizza Sipariş Programı.pdb
+C:\Users\Nebi Terzi\Desktop\Kütüphane Projesi\Pizza Sipariş Programı\Pizza Sipariş Programı\obj\Debug\Pizza Sipariş Programı.csproj.AssemblyReference.cache
+C:\Users\Nebi Terzi\Desktop\Kütüphane Projesi\Pizza Sipariş Programı\Pizza Sipariş Programı\obj\Debug\Pizza Sipariş Programı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nebi Terzi\Desktop\Kütüphane Projesi\Pizza Sipariş Programı\Pizza Sipariş Programı\obj\Debug\Pizza_Sipariş_Programı.Form1.resources
+C:\Users\Nebi Terzi\Desktop\Kütüphane Projesi\Pizza Sipariş Programı\Pizza Sipariş Programı\obj\Debug\Pizza_Sipariş_Programı.Properties.Resources.resources
+C:\Users\Nebi Terzi\Desktop\Kütüphane Projesi\Pizza Sipariş Programı\Pizza Sipariş Programı\obj\Debug\Pizza Sipariş Programı.csproj.GenerateResource.cache
+C:\Users\Nebi Terzi\Desktop\Kütüphane Projesi\Pizza Sipariş Programı\Pizza Sipariş Programı\obj\Debug\Pizza Sipariş Programı.csproj.CoreCompileInputs.cache
+C:\Users\Nebi Terzi\Desktop\Kütüphane Projesi\Pizza Sipariş Programı\Pizza Sipariş Programı\obj\Debug\Pizza Sipariş Programı.exe
+C:\Users\Nebi Terzi\Desktop\Kütüphane Projesi\Pizza Sipariş Programı\Pizza Sipariş Programı\obj\Debug\Pizza Sipariş Programı.pdb
